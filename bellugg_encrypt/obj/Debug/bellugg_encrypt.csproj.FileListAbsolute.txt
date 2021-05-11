@@ -1,0 +1,10 @@
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\bin\Debug\bellugg_encrypt.exe.config
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\bin\Debug\bellugg_encrypt.exe
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\bin\Debug\bellugg_encrypt.pdb
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.Form1.resources
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.Properties.Resources.resources
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.csproj.GenerateResource.Cache
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.csproj.CoreCompileInputs.cache
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.exe
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.pdb
+D:\Bellugg\Encrypt\bellugg_encrypt\bellugg_encrypt\obj\Debug\bellugg_encrypt.csprojAssemblyReference.cache
